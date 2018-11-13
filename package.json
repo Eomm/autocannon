@@ -60,6 +60,7 @@
     "reinterval": "^1.1.0",
     "retimer": "^1.0.1",
     "table": "^5.1.0",
-    "timestring": "^5.0.1"
+    "timestring": "^5.0.1",
+    "turbo-net": "^1.4.0"
   }
 }
